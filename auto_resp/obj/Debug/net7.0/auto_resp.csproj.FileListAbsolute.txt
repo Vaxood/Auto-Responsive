@@ -1,0 +1,15 @@
+C:\Users\Vaxod\c#\auto_resp\bin\Debug\net7.0\auto_resp.exe
+C:\Users\Vaxod\c#\auto_resp\bin\Debug\net7.0\auto_resp.deps.json
+C:\Users\Vaxod\c#\auto_resp\bin\Debug\net7.0\auto_resp.runtimeconfig.json
+C:\Users\Vaxod\c#\auto_resp\bin\Debug\net7.0\auto_resp.dll
+C:\Users\Vaxod\c#\auto_resp\bin\Debug\net7.0\auto_resp.pdb
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.csproj.AssemblyReference.cache
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.AssemblyInfoInputs.cache
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.AssemblyInfo.cs
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.csproj.CoreCompileInputs.cache
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.dll
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\refint\auto_resp.dll
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.pdb
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\auto_resp.genruntimeconfig.cache
+C:\Users\Vaxod\c#\auto_resp\obj\Debug\net7.0\ref\auto_resp.dll
