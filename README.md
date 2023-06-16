@@ -74,3 +74,5 @@ List<RespFunction> tbl = new List<RespFunction>
 ```
 
 this is very useful for lazy's mans like me :)
+video : 
+https://youtu.be/bZKVcsuXlwU
