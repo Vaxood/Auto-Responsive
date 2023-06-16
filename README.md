@@ -40,4 +40,36 @@ another exemple for draw.RoundedBox function
     },
 
 ```
+
+so for finaly my list its look like this :
+```
+
+List<RespFunction> tbl = new List<RespFunction>
+{
+    new RespFunction
+    {
+        firstPattern = @"\S+:SetSize\(\s*\d+,\d+\s*\)",
+        findNumberPattern = @"\d+,\d+",
+        thirdPattern = @"\S+:SetSize",
+        pos = new Dictionary<int, string>{
+            {1, "x"},
+            {2, "y"}
+        },
+    },
+     new RespFunction
+    {
+        firstPattern = @"draw.RoundedBox\(\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\S+s*\)", // find function
+        findNumberPattern = @"(?<=\()\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\d+\s*,\s*\S+\s*(?=\))",  // find argument function
+        thirdPattern = @"draw.RoundedBox",  // find name function
+        pos = new Dictionary<int, string>{  // and i put for the fist agument y because its for tall postion and the same for wide etc... , and for color agument we put just "" to specify we dont need to responsive this one 
+            {1, "y"},
+            {2, "x"},
+            {3, "y"},
+            {4, "x"},
+            {5, "y"},
+            {6, ""},
+        },
+    },
+};
+```
 this is very useful for lazy's mans like me :)
