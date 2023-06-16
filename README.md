@@ -8,7 +8,7 @@ this will modify it like that :
 somevariablename:SetSize(ScrW() *0.1041666666666667,ScrH()*0.0185185185185185)
 ```
 to auto-responsive 
-to add function in autor-responsive follow steps : 
+to add function in auto-responsive follow theses steps : 
 download and open project , now do this with this exemple we gonna use SetSize Function : 
 ```
  new RespFunction // dont modify this
@@ -72,4 +72,5 @@ List<RespFunction> tbl = new List<RespFunction>
     },
 };
 ```
+
 this is very useful for lazy's mans like me :)
