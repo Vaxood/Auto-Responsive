@@ -8,7 +8,7 @@ this will modify it like that :
 somevariablename:SetSize(ScrW() *0.1041666666666667,ScrH()*0.0185185185185185)
 ```
 to auto-responsive !
-to add function in auto-responsive program (because im too lazy to add more function ) follow theses steps : 
+to add function in auto-responsive program (because im too lazy to add more functions ) follow theses steps : 
 download and open project , now do this with this exemple we gonna use SetSize Function : 
 ```
  new RespFunction // dont modify this
